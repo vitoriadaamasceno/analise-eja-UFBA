@@ -1,4 +1,4 @@
-# analise-eja-UFBA
+# analise-eja-demanda-tse
 Analise e tratamento para levantamento de dados sobre a Educação de Jovens e Adultos
 
 Foi realizada uma analise da demanda de possiveis publicos da EJA através dos dados do eleitorado de Salvador e da Bahia de 2022.
