@@ -18,3 +18,8 @@ Tecnologias:
 - Python
 - Pandas
 - Matplotlib
+
+
+Dados disponivél em :
+
+https://lookerstudio.google.com/s/k33_TzE9euI
